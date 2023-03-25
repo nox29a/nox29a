@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Im Łukasz and I wanna become a software developer ;)
+
+![alt text](https://nox29a.pythonanywhere.com/static/assets/img/hero.png)
 
 #### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,8 +15,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 
-<div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nox29a&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</div>
+
 
 ![](https://komarev.com/ghpvc/?username=nox29a)
