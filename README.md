@@ -19,7 +19,7 @@
 ###
 
 </div>
-<p align="left">🔭 I'm looking for first job as a software developer <br>- 📚 I'm currently learning React and React Native<br>- ⚡ In my free time I like to paint =>.</p>
+<p align="left">🔭 I'm looking for first job as a software developer <br>- 📚 I'm currently learning React and React Native<br>- ⚡ In my free time I like to play basketball, watch movies and some times paint the picture. ➡️ ➡️ ➡️  One of mine: ➡️ ➡️ ➡️ </p>
 
 ###
 
