@@ -1,6 +1,6 @@
 ### Hi Im Łukasz and I wanna become a software developer ;)
 
-![alt text](https://nox29a.pythonanywhere.com/static/assets/img/hero.png)
+
 
 #### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
