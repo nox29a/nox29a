@@ -11,19 +11,14 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
+<p align="left">🔭 I'm looking for first job as a software developer <br>- 📚 I'm currently learning React and React Native<br>- ⚡ In my free time I like to paint and play basketball.</p>
+<div align="right">
+  <img height="253" src="https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/269681456_663805504609630_5683022376518434008_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=110&_nc_ohc=5EDlP_HBBnkAX-3LIJY&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MjczMzg3NDEzMDA5ODA4NTg1Mg%3D%3D.2-ccb7-5&oh=00_AfCLrFhqYopTH-W5h0cDaquRD9LMCRxHFWtZf_ovFLZ9Tg&oe=6424D8C1&_nc_sid=1527a3"  />
+</div>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-<div align="center">
-  <img height="253" src="https://nox29a.pythonanywhere.com/static/assets/img/hero.jpg"  />
-</div>
-
-
-#### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
