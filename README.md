@@ -4,7 +4,7 @@
 <h1 align="center">hey there 👋</h1>
 
 <div align="center">
-  <a href="https://www.react-resume-rose.vercel.app/">My website</a>
+  <a href="https://react-resume-rose.vercel.app/">My website</a>
 </div>
 
 
